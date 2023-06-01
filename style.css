@@ -1,0 +1,74 @@
+h1{
+	text-align:center;
+}
+h3{
+	text-align:center;
+}
+hr{
+	border:3px solid blue;
+}
+.profession1 h5{
+	float:right;
+}
+.profession2 h5{
+	float:right;
+}
+.education h5{
+	float:right;
+}
+p{
+	font-size:20px;
+}
+h1{
+	font-size:40px;
+}
+.line hr{
+	border:1px solid blue;
+}
+h3{
+	font-size:30px;
+}
+h4{
+	font-size:25px;
+}
+h5{
+	font-size:22px;
+}
+.info p{
+	font-size:18px;
+}
+.skills p{
+	text-align:center;
+}
+dialog{
+	background-color:LightBlue;
+	width:100%;
+	text-align:center;
+}
+.heading h4{
+	text-align:center;
+}
+h4{
+	color:blue;
+}
+.jobtitle h4{
+	background-color:LightBlue;
+}
+.right{
+    float:right;
+	color:black;
+}
+h3{
+	color:blue;
+}
+
+
+	
+
+
+
+
+
+
+
+
